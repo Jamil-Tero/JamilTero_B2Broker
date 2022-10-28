@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JamilTero_B2BrokerClassLibrary", "JamilTero_B2BrokerClassLibrary\JamilTero_B2BrokerClassLibrary.csproj", "{16850B57-2487-4CEB-8863-D357E37FCFCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "b2BrokerTests", "b2BrokerTests\b2BrokerTests.csproj", "{F582DE39-CEFF-4ECF-9B71-3B561A9EFCBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16850B57-2487-4CEB-8863-D357E37FCFCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16850B57-2487-4CEB-8863-D357E37FCFCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16850B57-2487-4CEB-8863-D357E37FCFCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16850B57-2487-4CEB-8863-D357E37FCFCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F582DE39-CEFF-4ECF-9B71-3B561A9EFCBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F582DE39-CEFF-4ECF-9B71-3B561A9EFCBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F582DE39-CEFF-4ECF-9B71-3B561A9EFCBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F582DE39-CEFF-4ECF-9B71-3B561A9EFCBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63F088BC-1F28-4268-92CB-4123BFEE0D42}
+	EndGlobalSection
+EndGlobal
